@@ -21,3 +21,6 @@ I'm a passionate developer and student at IIT Guwahati, building impactful proje
 ## 📫 Connect with Me
 [![Linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smai-debbarma/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.smai@iitg.ac.in)
+
+---
+⭐️ From [Smai345](https://github.com/Smai345)
